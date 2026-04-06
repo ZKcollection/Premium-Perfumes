@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.w3.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://zkcollection.github.io/Premium-Perfumes/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://zkcollection.github.io/Premium-Perfumes/products</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://zkcollection.github.io/Premium-Perfumes/about/our-story</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://zkcollection.github.io/Premium-Perfumes/about/sustainability</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zkcollection.github.io/Premium-Perfumes/about/customer-care</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zkcollection.github.io/Premium-Perfumes/about/store-locator</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://zkcollection.github.io/Premium-Perfumes/privacy-policy</loc>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://zkcollection.github.io/Premium-Perfumes/terms-of-service</loc>
+    <priority>0.3</priority>
+  </url>
+</urlset>
